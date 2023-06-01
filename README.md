@@ -1,0 +1,1 @@
+This project focuses on calculating weight on Mars using the Rust programming language.
